@@ -1,7 +1,12 @@
-namespace ProjectName.Models
+namespace MadLibs.Models
 {
-    public class ClassName
+    public class Words
     {
-        // Business Logic goes here.
+        public string Name1 { get; set;}
+        public string Name2 { get; set;}
+        public string Animal { get; set;}
+        public string Exclamation { get; set;}
+        public string Thing { get; set;}
+        public string Food { get; set;}
     }
 }
