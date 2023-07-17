@@ -1,10 +1,10 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ProjectName.Models;
+using MadLibs.Models;
 
-namespace ProjectName.Tests
+namespace MadLibs.Tests
 {
     [TestClass]
-    public class ClassNameTests
+    public class WordsTests
     {
         // Test methods go here
         [TestMethod]
